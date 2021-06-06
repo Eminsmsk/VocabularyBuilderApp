@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086773405048",
+    "project_id": "vocabularybuilderapp-b9f56",
+    "storage_bucket": "vocabularybuilderapp-b9f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086773405048:android:f4d0f741f88c624fc2948d",
+        "android_client_info": {
+          "package_name": "com.eminsimsek.vocabularybuilderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086773405048-k9q6kvkr21ghbf9jo8gpdlf1r93phhvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZjJqMtHPj-xeqgdtdWl9M0sQEw8M-GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086773405048-k9q6kvkr21ghbf9jo8gpdlf1r93phhvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
