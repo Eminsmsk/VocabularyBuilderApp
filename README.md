@@ -1,6 +1,6 @@
 # VocabularyBuilderApp
 
-An application for English language vocabulary memorization. You can discover various types of words and add them to your reminder list. If you start the reminder it will remind you a random word from your list twice in a day. Also you can make a quiz about words.
+An application for English language vocabulary memorization. You can discover various types of words and add them to your reminder list. If you start the reminder it will remind you a random word from your list twice in a day. Also you can make a quiz about words :)
 
 
 ![1](https://user-images.githubusercontent.com/33187905/120910949-b424da80-c68b-11eb-991d-049296f66cf4.jpg)
